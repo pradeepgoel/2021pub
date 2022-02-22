@@ -1,4 +1,4 @@
-![](images/AZ-204-Labs-03-Flow.PNG)
+![](https://raw.githubusercontent.com/pradeepgoel/2021pub/main/az204-labs-notes/images/AZ-204-Labs-03-Flow.png)
 
 ## Lab 3 Build Azure functions using App Services
 ### Create resources
